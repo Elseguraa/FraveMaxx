@@ -1,6 +1,6 @@
 # Sistema de Gestión de Inventario FraveMax
 
-[![cal1.png](https://i.postimg.cc/j54n8mMX/cal1.png)](https://postimg.cc/mzhrkXfz)
+[![cal1.png](https://i.postimg.cc/j54n8mMX/cal1.png){width=400px}]
 
 
 Este proyecto consiste en una aplicación Java con base de datos MySQL para gestionar el inventario de FraveMax, una empresa que vende electrodomésticos y productos para el hogar.
