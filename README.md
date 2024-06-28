@@ -1,5 +1,8 @@
 # Sistema de Gestión de Inventario FraveMax
 
+[![Image2.png](https://i.postimg.cc/PxP0KnfG/Image2.png)](https://postimg.cc/qhHmMYCQ)
+
+
 Este proyecto consiste en una aplicación Java con base de datos MySQL para gestionar el inventario de FraveMax, una empresa que vende electrodomésticos y productos para el hogar.
 
 ## Características principales
@@ -30,12 +33,12 @@ Este proyecto consiste en una aplicación Java con base de datos MySQL para gest
    - Diseñar la base de datos con las siguientes tablas: cliente, producto, venta, detalle venta.
      
 3. **Librerias necesarias**
-   - Cargar las librerías necesarias: jcalendar-1.4, mariadb-java-client-3.0.11, miglayout-4.0, TimingFramework-0.55.  
+   - Cargar las librerías necesarias: jcalendar-1.4 y mariadb-java-client-3.0.11
 
 4. **Compilación y ejecución:**
    - Compilar y ejecutar el proyecto desde tu IDE.
 
-
+[![Image20230606113412.png](https://i.postimg.cc/wMDfb6Sr/Image20230606113412.png)](https://postimg.cc/QKxJFrNg)
 
 ## Contribución
 
